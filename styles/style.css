@@ -206,6 +206,15 @@ body main section.container .page2 a img {
 body main section.container .page2 a img:hover {
   transform: scale(1.2);
 }
+body main section.container .page2 a .img1 {
+  margin-top: 180px;
+}
+body main section.container .page2 a .img8 {
+  width: 500px;
+}
+body main section.container .page2 a .img9 {
+  margin-top: 180px;
+}
 body main section.container .page3 a img {
   margin-top: 50px;
   padding: 100px 100px;
@@ -230,6 +239,10 @@ body main section.container .page4 a img {
 body main section.container .page4 a img:hover {
   transform: scale(1.2);
 }
+body main section.container .page4 a .img2 {
+  margin-top: 100px;
+  width: 700px;
+}
 body main section.container .page6 a img {
   margin-top: 50px;
   padding: 100px 100px;
@@ -241,4 +254,14 @@ body main section.container .page6 a img:hover {
 }
 body main section.container .page6 a .img2 {
   margin-top: 250px;
+}
+body main section.container .page6 a .img5 {
+  width: 650px;
+}
+body main section.container .page6 a .img6 {
+  width: 600px;
+  margin-top: 180px;
+}
+body main section.container .page6 a .img7 {
+  margin-top: 180px;
 }/*# sourceMappingURL=style.css.map */
