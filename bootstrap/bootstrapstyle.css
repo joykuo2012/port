@@ -11,7 +11,7 @@
   /* hamburger navbar*/
   .fixed-top {
     background-color: #fff;
-    height: 10vh;
+    height: 13vh;
   }
   .btn-secondary {
     background-color: #d9d9d9;
@@ -71,7 +71,7 @@
     display: flex;
     align-items: center;
     background-color: #f3f3f3;
-    margin-top: 10vh;
+    margin-top: 14vh;
     height: 6vh;
   }
   .nav-link {
