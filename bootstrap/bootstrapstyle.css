@@ -37,6 +37,7 @@
     margin-left: 20px;
     padding: 15px;
     font-size: 14px;
+    letter-spacing: 20px;
   }
   .dropdown-menu {
     background-color: #ededed;
@@ -63,6 +64,7 @@
     align-items: center;
     text-align: center;
     height: 45px;
+    letter-spacing: 20px;
   }
   /* top navbar */
   .nav-pills {
@@ -76,7 +78,6 @@
     background-color: transparent;
     color: #848484;
     font-size: 14px;
-    letter-spacing: 10px;
   }
   .nav-link:hover {
     background-color: #dadada;
