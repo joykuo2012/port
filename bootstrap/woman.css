@@ -31,3 +31,30 @@
   margin-left: -10px;
   font-weight: 300;
 }
+/*pages area*/
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.page-link {
+  color: #3a3a3a;
+}
+.page-item .active {
+  background-color: #686868;
+  border: 1px solid #686868;
+}
+
+/* other products */
+.other {
+  margin-top: 50px;
+}
+h3 {
+  text-align: center;
+  letter-spacing: 20px;
+}
+.otherhr {
+  width: 50vw;
+  margin-left: 85px;
+  border: 1px solid black;
+}
