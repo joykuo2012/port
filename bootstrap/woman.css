@@ -1,0 +1,33 @@
+.womancard {
+  max-width: 160px;
+}
+.card-img-top {
+  width: 146px;
+  height: 180px;
+  border-radius: 0;
+  object-fit: cover;
+}
+.btn-light {
+  width: 100px;
+}
+.btn-light1 svg {
+  position: absolute;
+  bottom: 110px;
+  left: 125px;
+  background-color: transparent;
+}
+.btn-light1 svg:hover {
+  fill: #c90000;
+}
+.card-title {
+  text-align: left;
+  margin-left: -10px;
+  color: #3a3a3a;
+  font-weight: 400;
+}
+.card-text {
+  text-align: left;
+  color: #aa7d7d;
+  margin-left: -10px;
+  font-weight: 300;
+}
