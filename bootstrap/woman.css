@@ -1,5 +1,6 @@
 .womancard {
   max-width: 160px;
+  margin-left: 10px;
 }
 .card-img-top {
   width: 146px;
@@ -50,11 +51,31 @@
   margin-top: 50px;
 }
 h3 {
-  text-align: center;
-  letter-spacing: 20px;
+  border-radius: 10px;
+  color: rgb(100, 100, 100);
+  width: 55vw;
+  margin-left: 130px;
+  letter-spacing: 10px;
 }
-.otherhr {
-  width: 50vw;
-  margin-left: 85px;
-  border: 1px solid black;
+
+.othercon {
+  margin-left: 20px;
+}
+.row .col .otherimg {
+  margin-top: 10px;
+  margin-left: -5px;
+  width: 135px;
+  height: 136px;
+  object-fit: cover;
+}
+.secondarybtn {
+  margin-top: 30px;
+  margin-left: -50px;
+  width: 150px;
+  height: 40px;
+  border-radius: 0;
+  background-color: #505050;
+}
+.secondarybtn a{
+    color: #eeeeee;
 }
